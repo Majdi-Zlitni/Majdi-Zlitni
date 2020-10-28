@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Majdi Zlitni</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h1>Hi 👋, I'm Majdi</h1>
+<h3>Passionate in front-end developer, problem solving and coding </h3>
 
-- 🌱 I’m currently learning **Java,C++,matlab**
+- 🎓 Im **a Computer science student** 
+
+- 💻 I’m currently learning **Java, C++, Matlab and R**
 
 - 📫 How to reach me **majdiuchiha@gmail.com**
+
+- 🥅 2021 Goals **Contributre more to Open Source Projects**
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/majdi-zlitni-684222175/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/majdi-zlitni-684222175/" height="30" width="40" /></a>

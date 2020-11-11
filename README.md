@@ -3,7 +3,7 @@
 
 - 🎓 Im **a Computer science student** 
 
-- 💻 I’m currently learning **Java, C++, Matlab and R**
+- 💻 I’m currently learning **Java, C++ and Matlab**
 
 - 📫 How to reach me **majdiuchiha@gmail.com**
 

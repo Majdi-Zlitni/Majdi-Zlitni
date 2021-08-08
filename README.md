@@ -5,18 +5,21 @@
 
 - 💻 I’m currently learning **Flutter, Docker, and AWS**
 <div>
+  <div>
 <img style="float:left;
   margin-right:10px;
   max-width: 20%;
   max-height: 20%;
 "  align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-
+</div>
+  <div>
 <img style="float:left;
   margin-right:10px;
   max-width: 20%;
   max-height: 20%;
 "  align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
-</div>
+  </div>
+  </div>
 - 📫 How to reach me **Majdi.Zlitni@isticbc.org**
 
 - 🥅 2021 Goals **Contributre more to Open Source Projects**

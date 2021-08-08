@@ -3,9 +3,9 @@
 
 - 🎓 Im **a Computer science student** 
 
-- 💻 I’m currently learning **Java, C++ and Matlab**
+- 💻 I’m currently learning **Flutter, Docker, CCNA and Fortinet**
 
-- 📫 How to reach me **majdiuchiha@gmail.com**
+- 📫 How to reach me **Majdi.Zlitni@isticbc.org**
 
 - 🥅 2021 Goals **Contributre more to Open Source Projects**
 

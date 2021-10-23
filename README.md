@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning **Flutter, Docker, and AWS**
 
-- 📫 If you need anything just ask for it Im more than happy to help **Majdi.Zlitni@isticbc.org**
+- 📫 If you need anything just ask for it Im more than happy to help **Majdi.Zlitni@istic.ucar.tn**
 
 - 🥅 2021 Goals **Contributre more to Open Source Projects**
 

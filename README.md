@@ -3,7 +3,7 @@
 
 - 🎓 Im **a Computer science student** 
 
-- 💻 I’m currently learning **Flutter, Docker, and AWS**
+- 💻 I’m currently learning **Flutter, Docker, kubernetes and AWS**
 
 - 📫 If you need anything just ask for it Im more than happy to help **Majdi.Zlitni@istic.ucar.tn**
 

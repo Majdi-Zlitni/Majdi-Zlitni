@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Majdi</h1>
-<h3>Passionate in front-end developer, problem solving and coding </h3>
+<h3>Passionate in mobile development, problem solving and coding </h3>
 
 - 🎓 Im **a Computer science student** 
 

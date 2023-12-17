@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Majdi</h1>
-<h3>Passionate in mobile development, problem solving and coding </h3>
+<h3>Passionate C# .NET developer, problem solving and coding </h3>
 
 - 🎓 Im **a Computer science student** 
 
-- 💻 I’m currently learning **Flutter, Docker, kubernetes and AWS**
+- 💻 I’m continuously learning **C# and .NET**
 
 - 📫 If you need anything just ask for it Im more than happy to help **Majdi.Zlitni@istic.ucar.tn**
 
-- 🥅 2021 Goals **Contributre more to Open Source Projects**
+- 🥅 2024 Goals **Contributre more to Open Source Projects**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>

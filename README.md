@@ -18,3 +18,5 @@
 
 
 <img align="left" alt="Majdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Majdi-Zlitni&show-icons=true&hide_border=true"/>
+
+<a href="https://app.daily.dev/majdi"><img src="https://api.daily.dev/devcards/a063598ed1d3496491920d6c60ca2729.png?r=ffp" width="400" alt="Majdi Zlitni's Dev Card"/></a>

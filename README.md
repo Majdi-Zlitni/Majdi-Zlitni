@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm <a href="majdiz.tn">Majdi</a> </h1>
+<h1>Hi 👋, I'm <a href="https://majdiz.tn">Majdi</a> </h1>
 <h3>Passionate C# .NET developer, I love problem solving and coding. </h3>
 
 - 🎓 Im **a Software Engineer**.

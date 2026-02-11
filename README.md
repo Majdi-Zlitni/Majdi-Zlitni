@@ -18,9 +18,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<div align="center">
-<a href="https://app.daily.dev/majdi"><img src="https://api.daily.dev/devcards/a063598ed1d3496491920d6c60ca2729.png?r=ffp" width="400" alt="Majdi Zlitni's Dev Card"/></a>
-</div>
 <br/>
 
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)

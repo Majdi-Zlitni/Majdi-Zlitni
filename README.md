@@ -9,7 +9,7 @@
 
 - 🥅 Goals **Contributre more to Open Source Projects** and keep on learning.
 
-- 📝 You can read my blog in <a href="https://dev.to/majdizlitni">dev.to</a>.
+- 📝 You can read my blogs on <a href="https://dev.to/majdizlitni">dev.to</a>.
 
 <div align="center">
   <picture>
